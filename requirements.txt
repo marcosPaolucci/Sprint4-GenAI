@@ -1,0 +1,6 @@
+selenium
+webdriver-manager
+pandas
+python-dotenv
+agents
+asyncio
