@@ -160,16 +160,3 @@ O sistema gera automaticamente:
 - **Chave OpenAI**: Para funcionamento dos agentes
 - **RAM**: Mínimo 4GB recomendado
 
-## 📝 Licença
-
-Este projeto é desenvolvido para fins educacionais e de pesquisa. Use com responsabilidade respeitando os termos de uso dos sites consultados.
-
-## 👨‍💻 Autor
-
-**Marcos Paolucci**
-- GitHub: [@marcosPaolucci](https://github.com/marcosPaolucci)
-- Projeto: Sprint 4 - GenAI
-
----
-
-⭐ **Se este projeto foi útil, considere dar uma estrela no repositório!**
